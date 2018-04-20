@@ -1,4 +1,5 @@
-FASE DE CONTROL DE TEMPS I GUANYADORS
+<h2>FASE DE CONTROL DE TEMPS I GUANYADORS</h2>
+<h3>Programa Java per controlar una cursa de Festes Majors</h3>
 
 La cursa s'organitzarà en dues etapes: 
 l'ascens al Rocagrossa des del poble, de 10Km i un desnivell de 837m i el descens de nou al poble per l'alzinar vell. En total hi hauran 2 punts de control, un al poble, on se situarà la sortida i la meta i l'altre al cim del Rocagrossa on se situarà el punt d'avituallament intermedi. 
